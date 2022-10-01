@@ -821,6 +821,7 @@ nav ul li {
   }
   .aboutpage-main .about-img{
     width: 75%;
+    height: 50vh;
   }
   .aboutpage-main .about-text{
     transform: translateX(0);
